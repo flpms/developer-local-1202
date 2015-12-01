@@ -1,0 +1,23 @@
+{
+  "name": "developer-local-1202",
+  "version": "0.0.1",
+  "description": "Interface for developer manage applications at local 1202",
+  "main": "nd-server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flpms/developer-local-1202.git"
+  },
+  "author": "Filipe M. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flpms/developer-local-1202/issues"
+  },
+  "homepage": "https://github.com/flpms/developer-local-1202#readme",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
+}
